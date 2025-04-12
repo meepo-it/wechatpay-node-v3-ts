@@ -17,7 +17,7 @@
     "url": "git+https://github.com/klover2/wechatpay-node-v3-ts.git"
   },
   "license": "MIT",
-  "author": "klover",
+  "author": "captain_jack",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
